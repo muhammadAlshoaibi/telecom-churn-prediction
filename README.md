@@ -8,7 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-3.13.6-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-1.24+-013243?logo=scikit-learn&logoColor=white)
 ![DataCamp](https://img.shields.io/badge/DataCamp-Scholar-03EF62?logo=datacamp&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ---
