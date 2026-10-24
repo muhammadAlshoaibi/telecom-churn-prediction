@@ -184,6 +184,7 @@ notebook.ipynb
 * XGBoost implementation
 * Feature importance analysis
 * Real-time churn prediction API
+* Feature Engineering
 
 ---
 
