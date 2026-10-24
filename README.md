@@ -183,7 +183,6 @@ notebook.ipynb
 * Hyperparameter tuning
 * XGBoost implementation
 * Feature importance analysis
-* Deployment using Flask or FastAPI
 * Real-time churn prediction API
 
 ---
